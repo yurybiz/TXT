@@ -1,0 +1,5 @@
+fav_film – The time
+fav_series – Theory of big boom
+fav_eating – pizza
+fav_time – summer
+fav_conutry – usa

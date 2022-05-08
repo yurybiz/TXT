@@ -1,0 +1,27 @@
+1. Bazovaya teoriya (CHto takoe testirovanie, bagreporty, dokumentaciya, vidy, metody, napravleniya testirovaniya i t.p.) SDLC, STLC.
+2. CHto takoe klient-servernaya arhitektura.
+3. HTTP Metody zaprosov na server.
+4. Kody otvetov HTTP servera.
+5. Struktury HTTP zaprosov i otvetov.
+6. CHto takoe JSON, XML. Ih struktura.
+7. Testirovanie API cherez Postman (JS, avtotesty API).
+8. Snyatie i chtenie logov c vneshnego servera.
+9. Snifing http web trafika cherez Charles i Fiddler.
+10. Dev Tools veb brauzerov (Google Chrome, FireFox).
+11. VPN. (Kak rabotaet, zachem nuzhen, kak ispol'zovat', varianty instrumentov)
+12. Mobil'noe testirovanie.
+13. Osobennost' iOS, Android, gajdlajny.
+14. Sborka iOS prilozhenij na XCode. (U kogo net Mac komp'yutera, prosto posmotryat)
+15. Sborka Android prilozhenij na Android Studio.
+16. ADB (upravlenie androjd devajsami).
+17. Nastrojka proksi i vpn na iOS i Android.
+18. Perekhvat (sniffing) mobil'nogo trafika cherez Charles i Fiddler na iOS i Android.
+19. Komandnaya stroka (terminal) Linux (kopirovanie, sozdanie, prosmotr, peremeshchenie fajlov na serverah bez graficheskogo interfejsa)
+20. Osnovy bash skripting, avtomatizaciya rutinnyh zadach na servere.
+21. Dostup k udalyonnym serveram.
+22. Osnovy SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
+23. Baza dannyh Postgres (ustanovka, nastrojka i ispol'zovanie).
+24. Nerelyacionnaya baza dannyh Redis (ustanovka, nastrojka i ispol'zovanie).
+25. Nagruzochnoe testirovanie v Jmeter.
+26. Metodologiya razrabotki Scrum.
+27. Python. (Izuchenie osnov. Sozdanie klient servernogo prilozheniya)
