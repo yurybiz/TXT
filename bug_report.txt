@@ -1,1 +1,16 @@
-
+Title: Success page: title doesn't appears
+Status: Open
+Severity: 4 – Minor
+Priority: High
+Progect: Simba
+Inviroment: MacOS Monterey 12.3.1, Safari 15.4
+Component: Success page
+Version: 1.0
+Issue type: BUG
+Preconditions: Import cookies.txt from attachment
+Steps:
+  1 ____;
+  2 ____;
+  3 ____
+Actual result: Title doesn't appear
+Expected result: Title appears
