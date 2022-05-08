@@ -1,0 +1,4 @@
+fio – Zhukovsky Yury Nikolaevich
+age – 27
+n_pet – 0
+future_sallary_usd – 1000
